@@ -1,5 +1,5 @@
 ## Project Goal  
-The goal of this project was to develop a simple mobile application for creating a to-do list, with tasks stored in a local database. Additionally, the project served as an introduction to fundamental **Android** concepts and **Jetpack Compose**. This is my first application built using Jetpack Compose.  
+The goal of this project was to develop a **simple mobile application for creating a to-do task list**, with tasks stored in a **local database**. Additionally, the project served as an introduction to fundamental **Android** concepts and **Jetpack Compose**. This is my first application built using Jetpack Compose.  
 
 ## Features  
 
