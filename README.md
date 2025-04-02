@@ -20,5 +20,8 @@ The goal of this project was to develop a simple mobile application for creating
 - Options to set **name and age**  
 - Choose an **avatar** from a set of available images  
 
-## Requirements  
+## App download and requirements
+### Requirements
 - **Android 8.0 (API 26) or newer**  
+### Download
+The app is published on the APKFab webstie, there is an .apk file available [here](https://apkfab.com/composeproject/com.example.composeproject/apk?h=7398cc78db8221a942e9188ac8b8307cc50994c1aaca503220950ebc496dff8a)
