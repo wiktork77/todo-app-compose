@@ -1,23 +1,24 @@
-## Cel Projektu
-Celem projektu było opracowanie prostej aplikacji mobilnej do tworzenia listy zadań "todo", które zapisują się do lokalnej bazy danych. Oraz zapoznanie się z podstawowymi konceptami android oraz jetpack compose. Jest to moja pierwsza aplikacja napisana w jetpack compose.
+## Project Goal  
+The goal of this project was to develop a simple mobile application for creating a to-do list, with tasks stored in a local database. Additionally, the project served as an introduction to fundamental **Android** concepts and **Jetpack Compose**. This is my first application built using Jetpack Compose.  
 
-## Opis Funkcjonalności
-1. **Dodawanie zadań do wykonania**:
-   - Zadania zapisywane są do lokalnej bazy danych
-   - Zadania można usunąć lub edytować
-   - Zadania zawierają szczegóły które można dostosować:
-     - Title
-     - Subtitle
-     - Category
-     - Date
-     - Importance
-     - Is paid
-     - Description
-    
-2. **Edycja danych osobowych**:
-  - Aplikacja pozwala na personalizacje danych
-  - Można podać swoje imię oraz wiek
-  - Można wybrać swój awatar z dostępnych
+## Features  
 
-## Wymagania
-- Android 8.0 (API 26) lub nowszy
+### ✅ Task Management  
+- Tasks are stored in a local database  
+- Tasks can be **added, edited, and deleted**  
+- Each task includes customizable details:  
+  - **Title**  
+  - **Subtitle**  
+  - **Category**  
+  - **Date**  
+  - **Importance Level**  
+  - **Paid/Free** status  
+  - **Description**  
+
+### 👤 **User Profile Customization**  
+- Users can personalize their profile information  
+- Options to set **name and age**  
+- Choose an **avatar** from a set of available images  
+
+## Requirements  
+- **Android 8.0 (API 26) or newer**  
