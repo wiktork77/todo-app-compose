@@ -24,4 +24,4 @@ The goal of this project was to develop a **simple mobile application for creati
 ### Requirements
 - **Android 8.0 (API 26) or newer**  
 ### Download
-The app is published on the APKFab webstie, there is an .apk file available [here](https://apkfab.com/composeproject/com.example.composeproject/apk?h=7398cc78db8221a942e9188ac8b8307cc50994c1aaca503220950ebc496dff8a)
+The app is published on the APKFab webstie, there is an .apk file available [here](https://apkfab.com/composeproject/com.example.composeproject/apk?h=f94beef3f459a36e35c78404bb36f07d0229a293aed7dce78a766ba288a2cbbe)
